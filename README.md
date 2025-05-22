@@ -11,10 +11,14 @@
    </p>
 <br> 
 
-<h1> 👧 About Me 👧 🇬🇭 🇨🇦 </h1>
+<h1> 👧 👓 About Me 🇬🇭 🇨🇦 </h1>
 
 <p> 💻 Quality Assurance Manual Tester with a legal background, bringing 7+ years of experience managing confidential documentation, improving operational efficiency, and delivering client-focused solutions. Proven ability to apply analytical skills and attention to detail across legal and tech environments 🖥️ </p>
 
+<br> 
+<p></p>
+<h2> 🎭 🚧Project Management & Comunication Tools 🏢✔️ </h2>
+<p> <b> Jira|| Trello|| Slack|| Discord </b></p>
 
 <br> 
 
@@ -31,10 +35,10 @@ Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public
 
 <br> 
 
-<h1> 🔰 Front-End Development Projects </h1>
+<h1> 🔰 Front-End Development Projects 👷‍♀️ </h1>
 <h5> Coming Soon </h5>
 
 <br>
 
-
-
+<h2> Contact Me </h2>
+<p> 📧 <email> ingelcodes@gmail.com </email></p>
