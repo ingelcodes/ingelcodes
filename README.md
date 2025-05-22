@@ -1,6 +1,6 @@
 
 <h1> Hi, Iam Inge 💜 </h1>
-<border-bottom> </border-bottom>
+
 
 <br> 
 
@@ -11,17 +11,22 @@
 
 <br> 
 
-<h1> AI Tools Projects 🤖 👩‍💼</h1>
-<h5> Coming Soon </h5>
+<h1> 🎓 My Certifications 📄 </h1>
+<p> <b> 🤖GenAI in Action: Impact and Possibilities:<br>
+Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public_url</b> 
+
+  <br> 
+  <p>
+  
+  <h1> AI Tools Projects 🤖 👩‍💼</h1>
+<h5> Coming Soon </h5></p>
 
 <br> 
 
-
-<h1> 🏫 My Certifications 📄 </h1>
+<h1> Front-End Development Projects </h1>
+<h5> Coming Soon </h5>
 
 <br>
 
-<h1> Skills & Software </h1>
 
-<p> <ul> 
-<li> </li></ul></p>
+
