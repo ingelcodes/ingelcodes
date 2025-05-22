@@ -28,7 +28,15 @@
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="40"/> </p>
 
 <br> 
+<p> <h2> Software Suites </h2></p>
 
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732221.png" width="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/128/300/300221.png" width="40"/>
+</p>
+
+
+<br>
 <h2> 🎓 My Certifications 📄 </h2>
 <p> <b> 🤖GenAI in Action: Impact and Possibilities:<br>
 Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public_url</b> 
@@ -36,13 +44,13 @@ Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public
   <br> 
 
   <p>
-  <h2> 🔰AI Tools Projects 🤖 👩‍💼</h2>
+  <h2>  <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="40"/> Tools Projects 🤖 👩‍💼</h2>
 <h5> Coming Soon </h5>
   </p>
 
 <br> 
 
-<h2> 🔰 Front-End Development Projects 👷‍♀️ </h2>
+<h2> <img src="https://media.istockphoto.com/id/1321528239/vector/html5-css3-js-icon-set-web-development.jpg?s=612x612&w=0&k=20&c=hbYVESXmb8UCuyP-izYgNg7Z_otdSfmLUY7Vj5KLCJg=" width="40"/> Projects 👷‍♀️ </h2>
 <h5> Coming Soon </h5>
 
 <br>
