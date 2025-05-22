@@ -1,5 +1,5 @@
 
-<h1> 👋 Hi, I am Inge 💜 Aspiring Front-End Developer 💻🤖 </h1>
+<h1> 👋 Hi, I am Inge 💜 <strong> Aspiring Front-End Developer 💻🤖</strong> </h1>
 <br>
 
 <br> 
