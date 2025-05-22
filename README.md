@@ -44,13 +44,13 @@ Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public
   <br> 
 
   <p>
-  <h2>  <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="40"/> Tools Projects 🤖 👩‍💼</h2>
+  <h2>  <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="90"/> Tools Projects 🤖 👩‍💼</h2>
 <h5> Coming Soon </h5>
   </p>
 
 <br> 
 
-<h2> <img src="https://media.istockphoto.com/id/1321528239/vector/html5-css3-js-icon-set-web-development.jpg?s=612x612&w=0&k=20&c=hbYVESXmb8UCuyP-izYgNg7Z_otdSfmLUY7Vj5KLCJg=" width="40"/> Projects 👷‍♀️ </h2>
+<h2> <img src="https://media.istockphoto.com/id/1321528239/vector/html5-css3-js-icon-set-web-development.jpg?s=612x612&w=0&k=20&c=hbYVESXmb8UCuyP-izYgNg7Z_otdSfmLUY7Vj5KLCJg=" width="150"/> Projects 👷‍♀️ </h2>
 <h5> Coming Soon </h5>
 
 <br>
