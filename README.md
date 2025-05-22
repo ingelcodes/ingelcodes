@@ -17,7 +17,7 @@
 
 <br> 
 <p></p>
-<h2> 🎭 🚧Project Management & Comunication Tools 🏢✔️ </h2>
+<h2> 🎭 🚧Project Management & Communication Tools 🏢✔️ </h2>
 <p> <b> Jira|| Trello|| Slack|| Discord </b></p>
 
 <br> 
