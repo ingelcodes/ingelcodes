@@ -11,7 +11,7 @@
    </p>
 <br> 
 
-<h1> 👧 👓 About Me 🇬🇭 🇨🇦 </h1>
+<h2> 👧 👓 About Me 🇬🇭 🇨🇦 </h2>
 
 <p> 💻 Quality Assurance Manual Tester with a legal background, bringing 7+ years of experience managing confidential documentation, improving operational efficiency, and delivering client-focused solutions. Proven ability to apply analytical skills and attention to detail across legal and tech environments 🖥️ </p>
 
@@ -22,20 +22,20 @@
 
 <br> 
 
-<h1> 🎓 My Certifications 📄 </h1>
+<h2> 🎓 My Certifications 📄 </h2>
 <p> <b> 🤖GenAI in Action: Impact and Possibilities:<br>
 Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public_url</b> 
 <p> </p>
   <br> 
 
   <p>
-  <h1> 🔰AI Tools Projects 🤖 👩‍💼</h1>
+  <h2> 🔰AI Tools Projects 🤖 👩‍💼</h2>
 <h5> Coming Soon </h5>
   </p>
 
 <br> 
 
-<h1> 🔰 Front-End Development Projects 👷‍♀️ </h1>
+<h2> 🔰 Front-End Development Projects 👷‍♀️ </h2>
 <h5> Coming Soon </h5>
 
 <br>
