@@ -8,7 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <br>
    <img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" width="40"/>
     <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="40"/>
-     <img src="https://cdn-icons-png.flaticon.com/128/919/919831.png" width="40"/> <br>
       <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="40"/>
   
 </p>
