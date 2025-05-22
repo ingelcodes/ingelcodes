@@ -1,5 +1,24 @@
 
-<h1> Hi, I am Inge 💜 Aspiring Front-End Developer 💻🤖 </h1>
+<h1> 👋 Hi, I am Inge 💜 Aspiring Front-End Developer 💻🤖 </h1>
+<br>
+
+<br> 
+
+<h2> 👧 👓 About Me 🇬🇭 🇨🇦 </h2>
+
+<p> I’m a Quality Assurance Manual Tester with a legal background, bringing 7+ years of experience in:
+<ol> 
+
+ <ul> 
+<li> Managing confidential documentation</li> 
+<li>  Enhancing operational workflows</li>
+<li> Delivering client-focused solutions</li> 
+
+</ul>
+</ol>
+
+
+I thrive at the intersection of tech and law, applying analytical thinking, attention to detail, and clear communication across all environments. Currently pivoting into Front-End Development, blending creativity and logic to build intuitive, responsive interfaces</p>
 <br>
 <p></p>
 <h2> 🧑‍🎓I am currently studying 💻 </h2>
@@ -12,12 +31,6 @@
       <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="40"/>
   
 </p>
-<br> 
-
-<h2> 👧 👓 About Me 🇬🇭 🇨🇦 </h2>
-
-<p> 💻 Quality Assurance Manual Tester with a legal background, bringing 7+ years of experience managing confidential documentation, improving operational efficiency, and delivering client-focused solutions. Proven ability to apply analytical skills and attention to detail across legal and tech environments 🖥️ </p>
-
 <br> 
 <p></p>
 <h2> 🎭 🚧Project Management & Communication Tools 🏢✔️ </h2>
