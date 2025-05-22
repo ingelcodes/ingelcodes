@@ -1,6 +1,7 @@
 
-<h1> Hi, I am Inge 💜 | Aspiring Front-End Developer 💻🤖 </h1>
-
+<h1> Hi, I am Inge 💜 Aspiring Front-End Developer 💻🤖 </h1>
+<br>
+<p></p>
 <h2> 🧑‍🎓I am currently studying 💻 </h2>
  <p>
   <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="40"/>
