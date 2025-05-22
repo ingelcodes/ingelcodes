@@ -7,9 +7,8 @@
    <li> 🌐 Front-End Languages </li>
     <li> 💻 Git & Github </li>
      <li> 🤖 AI Tools </li>
-    
-   
-   </ul></p>
+   </ul>
+   </p>
 <br> 
 
 <h1> 👧 About Me 👧 🇬🇭 🇨🇦 </h1>
