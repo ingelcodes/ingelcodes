@@ -1,7 +1,7 @@
 
 <h1> Hi, Iam Inge 💜| Aspiring Front-End Developer 💻🤖 </h1>
 
-<h3> 🎒 🧑‍🎓I am currently studying 📖 💻 </h3>
+<h3> 🧑‍🎓I am currently studying 💻 </h3>
    <p> 
    <ul> 
    <li> 🌐 Front-End Languages </li>
