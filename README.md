@@ -56,5 +56,3 @@ Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public
 
 <br>
 
-<h2> Contact Me </h2>
-<p> 📧 <email> ingelcodes@gmail.com </email></p>
