@@ -2,8 +2,6 @@
 <h1> 👋 Hi, I am Inge 💜 <strong> Aspiring Front-End Developer 💻🤖</strong> </h1>
 <br>
 
-<br> 
-
 <h2> 👧 👓 About Me 🇬🇭 🇨🇦 </h2>
 
 <p>
