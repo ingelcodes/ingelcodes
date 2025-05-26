@@ -6,15 +6,17 @@
 
 <h2> 👧 👓 About Me 🇬🇭 🇨🇦 </h2>
 
+<p>
+ I’m a Quality Assurance Manual Tester with a legal background and over 7 years of experience in managing sensitive documentation, improving operational workflows, and delivering client-driven solutions. 
 
+I bring a unique blend of legal precision and technical insight, allowing me to bridge the gap between compliance and innovation. 
 
+What sets me apart in the software engineering space is my ability to approach problems analytically, communicate clearly across teams, and ensure high-quality, user-focused outcomes. 
 
+I’m currently transitioning into Software Engineering, with a focus on Front-End Development where I blend creativity and logic to build responsive, accessible, and impactful digital experiences.
+</p>
 
-
-
-
-
-<p></p>
+<br>
 <h2> 🧑‍🎓I am currently studying 💻 </h2>
  <p>
   <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="40"/>
