@@ -6,20 +6,14 @@
 
 <h2> 👧 👓 About Me 🇬🇭 🇨🇦 </h2>
 
-<p> I’m a Quality Assurance Manual Tester with a legal background, bringing 7+ years of experience in:
-<ol> 
-
- <ul> 
-<li> Managing confidential documentation</li> 
-<li>  Enhancing operational workflows</li>
-<li> Delivering client-focused solutions</li> 
-
-</ul>
-</ol>
 
 
-I thrive at the intersection of tech and law, applying analytical thinking, attention to detail, and clear communication across all environments. Currently pivoting into Front-End Development, blending creativity and logic to build intuitive, responsive interfaces</p>
-<br>
+
+
+
+
+
+
 <p></p>
 <h2> 🧑‍🎓I am currently studying 💻 </h2>
  <p>
