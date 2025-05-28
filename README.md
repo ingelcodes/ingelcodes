@@ -56,14 +56,10 @@ Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public
 Issued https://coursera.org/share/9e8f2256f59a1d16cfcb4056725eee13</b> 
   </li>
      <li>
-       <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="30"/><b> GenAI in Action: Impact and Possibilities:<br>
-Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public_url</b> 
+       <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="30"/><b> Google AI Essentials Specialization:<br>
+Issued https://coursera.org/share/582261eaec57dcc3752ea8128fb932b9</b> 
   </li>
-     <li>
-       <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="30"/><b> GenAI in Action: Impact and Possibilities:<br>
-Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public_url</b> 
-  </li>
-   
+    
 </ul> 
 
  </p>
