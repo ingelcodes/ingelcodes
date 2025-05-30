@@ -68,14 +68,3 @@ Issued https://coursera.org/share/582261eaec57dcc3752ea8128fb932b9</b>
 <h2> <img src="https://media.istockphoto.com/id/1321528239/vector/html5-css3-js-icon-set-web-development.jpg?s=612x612&w=0&k=20&c=hbYVESXmb8UCuyP-izYgNg7Z_otdSfmLUY7Vj5KLCJg=" width="150"/> Projects 👷‍♀️ </h2>
 <h5> Coming Soon </h5>
 
-<br> 
-  <p>
-  <h2>  <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="90"/> Tools Projects </h2>
-<h5> Coming Soon </h5>
-  </p>
-
-<br> 
-
-
-<br>
-
