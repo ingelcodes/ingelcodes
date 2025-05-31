@@ -47,10 +47,6 @@ I’m currently transitioning into Software Engineering, with a focus on Front-E
 <h2> 🎓 My Certifications 📄 </h2>
 <p> 
 <ul>
-  <li>
-       <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="30"/><b> GenAI in Action: Impact and Possibilities:<br>
-Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public_url</b> 
-  </li>
      <li>
        <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="30"/><b> AI for Project Managers and Scrum Masters: <br>
 Issued https://coursera.org/share/9e8f2256f59a1d16cfcb4056725eee13</b> 
@@ -59,7 +55,14 @@ Issued https://coursera.org/share/9e8f2256f59a1d16cfcb4056725eee13</b>
        <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="30"/><b> Google AI Essentials Specialization:<br>
 Issued https://coursera.org/share/582261eaec57dcc3752ea8128fb932b9</b> 
   </li>
-    
+     <li>
+       <img src="https://cdn-icons-png.flaticon.com/128/3234/3234972.png" width="30"/><b> Agile with Atlassian Jira:<br>
+Issued https://coursera.org/share/5a28cc5f06eb5e46b51f411d7671da38</b> 
+  </li>
+ <li>
+       <img src="https://cdn-icons-png.flaticon.com/128/8055/8055576.png" width="30"/><b> GenAI in Action: Impact and Possibilities:<br>
+Issued https://www.credly.com/badges/0866cfb4-03a9-48f5-93e2-281091deb915/public_url</b> 
+  </li>
 </ul> 
 
  </p>
